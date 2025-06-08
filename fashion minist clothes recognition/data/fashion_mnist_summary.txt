@@ -1,0 +1,31 @@
+Fashion MNIST Dataset Summary
+===========================
+
+Dataset Information
+Training images: (60000, 28, 28)
+Test images: (10000, 28, 28)
+Pixel value range: [0, 255]
+
+Class Distribution
+T-shirt/top: 6000 (train), 1000 (test)
+Trouser: 6000 (train), 1000 (test)
+Pullover: 6000 (train), 1000 (test)
+Dress: 6000 (train), 1000 (test)
+Coat: 6000 (train), 1000 (test)
+Sandal: 6000 (train), 1000 (test)
+Shirt: 6000 (train), 1000 (test)
+Sneaker: 6000 (train), 1000 (test)
+Bag: 6000 (train), 1000 (test)
+Ankle boot: 6000 (train), 1000 (test)
+
+Pixel Statistics by Class
+Class 0 (T-shirt/top): Mean=83.03, Std=89.44
+Class 1 (Trouser): Mean=56.84, Std=87.60
+Class 2 (Pullover): Mean=96.06, Std=91.46
+Class 3 (Dress): Mean=66.02, Std=90.33
+Class 4 (Coat): Mean=98.26, Std=95.96
+Class 5 (Sandal): Mean=34.87, Std=67.09
+Class 6 (Shirt): Mean=84.61, Std=86.52
+Class 7 (Sneaker): Mean=42.76, Std=75.17
+Class 8 (Bag): Mean=90.16, Std=93.14
+Class 9 (Ankle boot): Mean=76.81, Std=94.49
